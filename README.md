@@ -9,4 +9,4 @@
 <img src="https://www.w3schools.com/whatis/img_js.png" alt="javascript-logo" width=80px />
 <br>
 
-<a href="https://github.com/jonataswebj-lab/Jokenpo/blob/main/projeto_imagem.png?raw=true">Site Jokenpo</a>
+<a href="https://jonataswebj-lab.github.io/Jokenpo/">Site Jokenpo</a>
